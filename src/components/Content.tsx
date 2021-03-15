@@ -1,6 +1,6 @@
 import { MovieCard } from '../components/MovieCard';
 
-import './styles/content.scss';
+import '../styles/content.scss';
 
 interface GenreResponseProps {
   id: number;

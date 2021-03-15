@@ -1,6 +1,7 @@
 import { Icon } from './Icon';
 
 import '../styles/button.scss';
+
 import { ButtonHTMLAttributes } from 'react';
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
